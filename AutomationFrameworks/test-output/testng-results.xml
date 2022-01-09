@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56868" started-at="2021-12-24T11:03:22Z" finished-at="2021-12-24T11:04:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56868" started-at="2021-12-24T11:03:22Z" finished-at="2021-12-24T11:04:19Z">
+      <class name="gridtest.GridTest_1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:gridtest.GridTest_1@56ac3a89]" name="beforeMethod" is-config="true" duration-ms="51114" started-at="2021-12-24T11:03:22Z" finished-at="2021-12-24T11:04:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:gridtest.GridTest_1@56ac3a89]" name="f" duration-ms="5579" started-at="2021-12-24T11:04:13Z" finished-at="2021-12-24T11:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:gridtest.GridTest_1@56ac3a89]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-12-24T11:04:19Z" finished-at="2021-12-24T11:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- gridtest.GridTest_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: runner.FirstRunner
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 25.234 s <<< FAILURE! - in runner.FirstRunner
+Multiple  two number c and d.validate multiple 63  Time elapsed: 0.223 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/testng/Assert
+Caused by: java.lang.ClassNotFoundException: org.testng.Assert
+
+Multiple  two number c and d  Time elapsed: 6.726 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/testng/Assert
+Caused by: java.lang.ClassNotFoundException: org.testng.Assert
+
